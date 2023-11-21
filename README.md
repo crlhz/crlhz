@@ -1,3 +1,4 @@
+# 💫 About Me:
 🔭 I’m currently working on STM32 library for GFSK transceiver<br>🌱 I’m currently learning about wireless transmissions in IoT<br>⚡ I am professionally involved in rail signaling systems
 
 
